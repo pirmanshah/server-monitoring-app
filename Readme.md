@@ -34,6 +34,9 @@ This is a Node.js application for monitoring the status of servers by pinging th
      DB_USER=root
      DB_NAME=monitoring
      DB_PASSWORD=
+
+     TELEGRAM_BOT_TOKEN=
+     TELEGRAM_CHAT_ID=
      ```
 
 4. **Start the application:**
