@@ -60,6 +60,8 @@ This is a Node.js application for monitoring the status of servers by pinging th
 - `DB_USER`: The username used to authenticate with the MySQL database server.
 - `DB_NAME`: The name of the MySQL database.
 - `DB_PASSWORD`: The password used to authenticate with the MySQL database server.
+- `TELEGRAM_BOT_TOKEN`: The token provided by the BotFather when you create a new bot on Telegram. This is used to authenticate your bot and allow it to send messages.
+- `TELEGRAM_CHAT_ID`: The ID of the chat where your bot will send messages. This can be a user ID, group ID, or channel ID. Ensure your bot has permission to send messages to this chat.
 
 ## Configuration
 
