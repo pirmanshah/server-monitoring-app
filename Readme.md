@@ -76,4 +76,4 @@ This is a Node.js application for monitoring the status of servers by pinging th
 
 ## Contact 📞
 
-Created by [Pirmansyah](https://www.pirmansyah.my.id) - feel free to contact me!
+Created by [Pirmansyah](https://www.pirmansyah.my.id)
